@@ -10,10 +10,10 @@ public class ColorTest {
 			} else {
 				continue;
 			}
-			if (c.length() >= 4) {
+/*			if (c.length() >= 4) {
 				colors[count] = c.substring(0, 3); // Result : Compliation fails
 			}
-			count++;
+			count++;*/
 		}
 		System.out.println(colors[count]);
 	}
