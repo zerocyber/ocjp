@@ -13,4 +13,6 @@ public class ColorTest2 {
 	colors.add(3,"cyan");
 	System.out.print(colors);
 	
+	
+	//코드 잘못됨 오류뜸
 }
